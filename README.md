@@ -1,4 +1,4 @@
-## Présentation
+## What is it?
 This is the frontend serveur for textile brand Cléentine Parant, located in Toulouse, France.
 
 ## FullstackFrontend
